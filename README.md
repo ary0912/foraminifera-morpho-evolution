@@ -57,7 +57,7 @@ This repository hosts our academic group project on **morphological diversificat
 
 ### Morphotype Distribution Over Time
 <p align="center">
-  <img src="fde.png" alt="KDE Ridge Plot" width="700"/>
+  <img src="kde.png" alt="KDE Ridge Plot" width="700"/>
   <br/>
   <em>KDE plots of shape parameters across 10 geological time bins.</em>
 </p>
